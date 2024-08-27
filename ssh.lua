@@ -9,5 +9,4 @@ function M.options(config)
 		},
 	}
 end
-
 return M
